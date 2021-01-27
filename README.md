@@ -13,3 +13,16 @@ First Repo
 
 `git status` check the status of the repository
 
+## Basic Bash command
+
+`pwd` pring current directory
+
+`cd` change directory
+
+`ls` list content
+
+`ls -a` list all files
+
+`mkdir` create directory
+
+`touch` create a dummy file placeholder
